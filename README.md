@@ -15,8 +15,8 @@ This was a basic challenge requiring only css and HTML knowledge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repository](https://github.com/ClassPython/fem-qr-code-component)
+- Live Site URL: [github-pages]( https://classpython.github.io/fem-qr-code-component/)
 
 ### Built with
 
@@ -26,11 +26,11 @@ This was a basic challenge requiring only css and HTML knowledge.
 
 ### What I learned
 
- Learned basics of using Frontend Mentor, and utilized Flexbox to   center component.
+ Learned basics of Frontend Mentor and utilized Flexbox to center component.
 
 
 ### Continued development
 
-Will continue to build projects with Frotemd Mentor to improve my existing web developement skills.
-
+Continue to solve Frotemd Mentor challenges to improve existing web developement skills.
+ 
 
