@@ -4,7 +4,7 @@
 
 This challenge was to build and deploy Frontend Mentor's QR code component challenge.  Frontend Mentor provided various assets including the image, figma file, and style guide.
 
-[Frontend Mentor QR code component challenge](https://www.frontendmentor.io)
+[Frontend Mentor QR code component challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 This was a basic challenge requiring only css and HTML knowledge.
 
@@ -29,8 +29,5 @@ This was a basic challenge requiring only css and HTML knowledge.
  Learned basics of Frontend Mentor and utilized Flexbox to center component.
 
 
-### Continued development
-
-Continue to solve Frotemd Mentor challenges to improve existing web developement skills.
  
 
