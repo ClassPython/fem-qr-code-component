@@ -10,7 +10,7 @@ This was a basic challenge requiring only css and HTML knowledge.
 
 ### Screenshot
 
-![](./preview.jpg)
+![Preview of solution for the QR code component coding challenge](./preview.jpg)
 
 
 ### Links
