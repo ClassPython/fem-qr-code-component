@@ -10,7 +10,8 @@ This was a basic challenge requiring only css and HTML knowledge.
 
 ### Screenshot
 
-![Preview of solution for the QR code component coding challenge](./preview.jpg)
+![Preview of solution for the QR code component coding challenge](./images/sceenshot.jpg)
+
 
 
 ### Links
@@ -26,7 +27,7 @@ This was a basic challenge requiring only css and HTML knowledge.
 
 ### What I learned
 
- Learned basics of Frontend Mentor and utilized Flexbox to center component.
+ Learned basics of submitting solutions to Frontend Mentor and utilized Flexbox to center component.
 
 
  
